@@ -5,7 +5,7 @@ Fast RAG Lite is a lightweight, easy-to-understand AI system that shows how real
 
 The goal was simple:
 
-📄 Give the system a PDF (for example, my own resume) \n
+📄 Give the system a PDF (for example, my own resume)
 🔍 Let it read and break the text into small chunks
 🧠 Convert those chunks into embeddings
 🎯 Search for the most relevant pieces when a question is asked
@@ -39,4 +39,5 @@ The system includes my resume for testing:
 /mnt/data/Ameya Ajay-Jadhav.pdf
 
 You can ask the API questions about it, and it will answer using retrieval.
+
 
