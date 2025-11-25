@@ -1,9 +1,9 @@
 # AI-Powered-RAG-Search-Engine-for-Technical-Documents
-#✨ Project Overview
+<h1>✨ Project Overview</h1>
 
 Fast RAG Lite is a lightweight, easy-to-understand AI system that shows how real-world Retrieval-Augmented Generation (RAG) works.
 
-The goal was simple:
+<h3>The goal was simple:</h3>
 
 📄 Give the system a PDF (for example, my own resume)
 🔍 Let it read and break the text into small chunks
@@ -16,7 +16,7 @@ It uses a deterministic fallback mode that summarizes the most relevant chunks, 
 
 If an OpenAI key is available, it automatically switches to a smarter, natural-language response powered by an LLM.
 
-🚀 Why I Built This
+<h2>🚀 Why I Built This</h2>
 
 This project helped me understand:
 
@@ -32,13 +32,14 @@ How to expose everything through a clean FastAPI backend
 
 The result is a clear, functional, and production-style RAG system that is easy to understand but still demonstrates real AI engineering skills.
 
-📌 Bonus: Real-World Proof
+<h2>📌 Bonus: Real-World Proof</h2>
 
 The system includes my resume for testing:
 
 /mnt/data/Ameya Ajay-Jadhav.pdf
 
 You can ask the API questions about it, and it will answer using retrieval.
+
 
 
 
