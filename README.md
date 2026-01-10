@@ -1,5 +1,5 @@
 # AI-Powered-RAG-Search-Engine-for-Technical-Documents
-<h1>✨ Project Overview</h1>
+<h1>✨ Project Overview </h1>
 
 Fast RAG Lite is a lightweight, easy-to-understand AI system that shows how real-world Retrieval-Augmented Generation (RAG) works.
 
@@ -46,6 +46,7 @@ You can ask the API questions about it, and it will answer using retrieval.
 <img width="1915" height="1075" alt="Screenshot 2025-11-25 133505" src="https://github.com/user-attachments/assets/60fcd8e5-e5cd-4f28-ae12-c5e8a733aec4" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-25 133534" src="https://github.com/user-attachments/assets/e4ab9122-4abc-43e4-842b-e0277c30a391" />
 <img width="1919" height="391" alt="Screenshot 2025-11-25 133553" src="https://github.com/user-attachments/assets/d1bc76c4-3f1b-4ff1-9dec-16745ab32c9f" />
+
 
 
 
